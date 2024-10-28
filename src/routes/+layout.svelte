@@ -8,10 +8,18 @@
 	let { children }: Props = $props();
 </script>
 
-<div class="flex flex-col px-4 max-w-7xl mx-auto min-h-screen">
-	<main>
-		<div class="flex-1 space-y-4 overflow-y-auto">
+<div class="flex flex-col">
+	<header class="bg-green-800">
+		<h1>Header</h1>
+	</header>
+
+	<main class="bg-blue-950">
+		<div class="space-y-4">
 			{@render children?.()}
 		</div>
 	</main>
+
+	<footer class="bg-red-800">
+		<h1>Footer</h1>
+	</footer>
 </div>
