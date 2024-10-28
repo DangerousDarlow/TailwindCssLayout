@@ -1,4 +1,4 @@
-<h1>Main</h1>
+<h1>First Line</h1>
 
 <p>I know that I shall meet my fate</p>
 <p>Somewhere among the clouds above;</p>
@@ -67,3 +67,5 @@
 <p>The years to come seemed waste of breath,</p>
 <p>A waste of breath the years behind</p>
 <p>In balance with this life, this death.</p>
+
+<h1>Last Line</h1>
