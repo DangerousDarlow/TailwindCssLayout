@@ -12,7 +12,6 @@
 	<header class="bg-emerald-800 fixed top-0 left-0 right-0 h-20 max-w-screen-2xl mx-auto">
 		<div class="flex items-center h-full">
 			<h1 class="flex items-center justify-center inset-0 absolute">Header</h1>
-			<button class="right-4 absolute hidden md:block">Send</button>
 		</div>
 	</header>
 
